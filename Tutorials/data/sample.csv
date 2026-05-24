@@ -1,0 +1,157 @@
+patient_ID,name,Age,sex,location,blood_group,sexual_status,bp_rate(mmHg),heart_rate(bpm),diabetes,thyroid,cardiac_issue,asthma,surgery,surgery_desc,other,covid_history
+P0813,Alex Rivers,28,F,Boston,B+,active,127/88,78,0,no,0,1,1,gall bladder stone removal,hyponatremia and gastritis,yes
+P0238,Honda Daisuke,39,M,Osaka,0+,active,135/89,66,0,hyper,1,0,1,open heart surgery,migrane,no
+P0562,Raymond Murphy,26,M,London,O+,inactive,128/82,82,0,hypo,0,1,1,cryosurgery for warts in hand,fatty liver and hypertyension,yes
+P0110,Gyortske Kvala,26,M,Helsinki,A-,active,123/89,76,0,no,1,1,1,vulva surgery,erectile disfunctionality and dust allergy,no
+P0549,Xiao Wu,43,F,Kunming,A+,inactive,134/89,92,1,hypo,0,1,0,null,hypertension and iron deficiency,no
+P0332,Sumanth Rao,23,F,Mumbai,O+,active,128/84,88,0,no,0,1,0,null,ovary disfunctionality and piles,yes
+P1001,Liam Carter,31,M,New York,O-,active,122/80,74,0,no,0,0,0,null,seasonal allergies,no
+P1002,Emma Johansson,29,F,Stockholm,A+,active,118/79,72,0,no,0,0,0,null,vitamin D deficiency,yes
+P1003,Noah Schmidt,45,M,Berlin,B+,inactive,140/92,88,1,no,1,0,0,null,hyperlipidemia,no
+P1004,Ava Rossi,37,F,Rome,AB+,active,130/86,81,0,hypo,0,0,1,appendectomy,chronic sinusitis,yes
+P1005,Oliver Dubois,52,M,Paris,A-,inactive,145/95,90,1,hyper,1,0,0,angioplasty,benign prostate enlargement,no
+P1006,Sophia Novak,34,F,Prague,O+,active,124/82,77,0,no,0,1,0,null,eczema,yes
+P1007,Elijah Kim,27,M,Seoul,B-,active,119/78,70,0,no,0,0,0,null,lactose intolerance,no
+P1008,Isabella Costa,41,F,Sao Paulo,B+,inactive,138/90,86,1,no,0,1,0,null,iron deficiency anemia,yes
+P1009,James O'Reilly,50,M,Dublin,O+,inactive,142/94,84,1,hypo,1,0,1,bypass surgery,gout,no
+P1010,Mia Petrov,33,F,Moscow,A+,active,126/83,79,0,no,0,0,0,null,gastritis,yes
+P1011,Benjamin Singh,39,M,Delhi,B+,active,132/88,82,0,no,0,1,0,null,allergic rhinitis,no
+P1012,Charlotte Nguyen,24,F,Hanoi,AB-,active,117/76,73,0,no,0,0,1,tonsillectomy,acne vulgaris,yes
+P1013,Lucas Almeida,36,M,Lisbon,O-,inactive,136/89,85,0,hyper,0,0,0,null,nonalcoholic fatty liver,no
+P1014,Amelia Kowalski,48,F,Warsaw,A-,inactive,144/93,89,1,no,0,1,0,null,osteoarthritis,yes
+P1015,Henry Becker,30,M,Vienna,B+,active,121/81,75,0,no,0,0,0,null,irritable bowel syndrome,no
+P1016,Harper Silva,27,F,Rio de Janeiro,O+,active,120/79,78,0,no,0,0,1,laparoscopic cyst removal,PCOS,yes
+P1017,Alexander Ivanov,55,M,St. Petersburg,A+,inactive,148/96,92,1,hyper,1,0,0,stent placement,chronic kidney disease,no
+P1018,Evelyn Brown,42,F,Chicago,B-,inactive,137/91,87,0,hypo,0,1,0,null,fibromyalgia,yes
+P1019,Daniel Lopez,38,M,Madrid,O+,active,129/85,80,0,no,0,0,0,null,GERD,no
+P1020,Abigail Tan,32,F,Singapore,AB+,active,123/82,76,0,no,0,0,0,null,subclinical hypothyroidism,yes
+P1021,Matthew Clark,46,M,Melbourne,A-,inactive,141/92,88,1,no,1,0,0,null,sleep apnea,no
+P1022,Emily Garcia,25,F,Los Angeles,B+,active,119/77,71,0,no,0,0,0,null,anxiety disorder,yes
+P1023,Joseph Park,29,M,Toronto,O-,active,122/80,74,0,no,0,0,1,septoplasty,seasonal asthma,no
+P1024,Elizabeth Romero,40,F,Bogota,A+,inactive,135/88,83,0,hypo,0,1,0,null,vitamin B12 deficiency,yes
+P1025,Samuel Hughes,51,M,Manchester,B+,inactive,146/95,90,1,no,1,0,0,carotid endarterectomy,hypercholesterolemia,no
+P1026,Sofia Marin,28,F,Athens,O+,active,121/79,76,0,no,0,0,0,null,endometriosis,yes
+P1027,David Fischer,35,M,Zurich,AB-,active,127/84,79,0,no,0,0,0,null,mild scoliosis,no
+P1028,Grace Lee,44,F,Hong Kong,B+,inactive,139/91,86,0,hyper,0,1,0,null,chronic bronchitis,yes
+P1029,Andrew Scott,33,M,Edinburgh,O+,active,125/83,78,0,no,0,0,0,null,psoriasis,no
+P1030,Chloe Martinez,26,F,San Diego,A-,active,118/76,72,0,no,0,0,1,laser eye surgery,seasonal allergies,yes
+P1031,Logan Rivera,47,M,Monterrey,O+,inactive,143/94,88,1,no,1,0,0,null,obesity,no
+P1032,Victoria Chen,39,F,Taipei,B-,active,131/87,81,0,hypo,0,0,0,null,benign thyroid nodules,yes
+P1033,Jackson Moore,54,M,Houston,A+,inactive,149/97,93,1,hyper,1,0,0,bypass surgery,chronic back pain,no
+P1034,Aria Patel,31,F,Doha,O+,active,122/81,75,0,no,0,0,0,null,vitamin D deficiency,yes
+P1035,Wyatt Anders,37,M,Copenhagen,B+,active,128/85,79,0,no,0,1,0,null,allergic dermatitis,no
+P1036,Lily Hassan,29,F,Cairo,A-,active,120/78,73,0,no,0,0,1,appendectomy,chronic sinusitis,yes
+P1037,Julian Rossi,41,M,Turin,O-,inactive,138/90,85,0,no,0,0,0,null,hyperuricemia,no
+P1038,Ella Novak,34,F,Bratislava,B+,active,126/82,77,0,no,0,0,0,null,IBS,yes
+P1039,Christopher Young,49,M,Seattle,AB+,inactive,145/96,91,1,no,1,0,0,null,peripheral neuropathy,no
+P1040,Nora Ibrahim,36,F,Amman,O+,active,129/84,80,0,hypo,0,1,0,null,chronic migraine,yes
+P1041,Isaac McAllister,27,M,Hamburg,B-,active,121/79,74,0,no,0,0,0,null,lactose intolerance,no
+P1042,Zoe Laurent,43,F,Marseille,A+,inactive,137/90,86,0,no,0,1,0,null,osteoarthritis,yes
+P1043,Levi Costa,32,M,Porto,O+,active,124/82,78,0,no,0,0,0,null,gastritis,no
+P1044,Hazel Ortiz,39,F,Lima,B+,active,130/86,81,0,hypo,0,0,1,laparoscopic myomectomy,PCOS,yes
+P1045,Owen Silva,52,M,Curitiba,O-,inactive,147/95,89,1,no,1,0,0,null,chronic kidney disease,no
+P1046,Scarlett Ivanova,30,F,Sofia,A-,active,123/80,76,0,no,0,0,0,null,iron deficiency,yes
+P1047,Theo Jensen,46,M,Oslo,B+,inactive,140/92,88,1,hyper,0,0,0,null,sleep apnea,no
+P1048,Penelope Ruiz,28,F,Valencia,O+,active,119/77,72,0,no,0,0,0,null,anxiety disorder,yes
+P1049,Adrian Popescu,35,M,Bucharest,AB-,active,127/84,79,0,no,0,1,0,null,allergic rhinitis,no
+P1050,Stella Georgiou,42,F,Nicosia,A+,inactive,136/89,84,0,hypo,0,1,0,null,fibromyalgia,yes
+P0814,Liam Benson,31,M,Toronto,A+,active,122/80,72,0,no,0,0,0,null,seasonal allergies,no
+P0815,Sophia Nguyen,27,F,Vancouver,O+,active,118/76,75,0,no,0,1,0,null,anemia,yes
+P0816,Noah Smith,45,M,Chicago,B+,inactive,140/90,85,1,hyper,1,0,1,bypass surgery,hypertension,yes
+P0817,Emma Brown,22,F,Sydney,A-,active,110/70,68,0,no,0,1,0,null,vitamin D deficiency,no
+P0818,Oliver Garcia,36,M,Madrid,O+,active,130/85,77,0,hypo,0,0,0,null,gastritis,no
+P0819,Ava Martinez,29,F,Barcelona,B+,inactive,125/82,80,0,no,0,1,1,appendix removal,IBS,yes
+P0820,Ethan Wilson,41,M,New York,AB+,active,135/88,79,1,no,1,0,0,null,cholesterol,no
+P0821,Isabella Anderson,33,F,Seattle,O-,active,119/75,74,0,no,0,1,0,null,thyroid nodules,no
+P0822,Mason Thomas,38,M,London,A+,inactive,142/92,88,1,hyper,1,0,1,angioplasty,hypertension,yes
+P0823,Mia Taylor,26,F,Melbourne,B-,active,117/73,70,0,no,0,1,0,null,eczema,no
+P0824,James Moore,50,M,Dublin,O+,inactive,145/95,90,1,hypo,1,0,1,knee replacement,arthritis,yes
+P0825,Charlotte Jackson,24,F,Paris,A+,active,112/72,69,0,no,0,1,0,null,migraine,no
+P0826,Benjamin White,35,M,Berlin,B+,active,128/84,76,0,no,0,0,0,null,GERD,no
+P0827,Amelia Harris,30,F,Rome,O+,inactive,126/83,81,0,hypo,0,1,0,null,PCOS,yes
+P0828,Lucas Martin,44,M,Amsterdam,A-,active,138/87,82,1,no,1,0,1,stent placement,diabetes,yes
+P0829,Harper Thompson,28,F,Zurich,AB+,active,120/78,73,0,no,0,1,0,null,allergies,no
+P0830,Elijah Garcia,37,M,Los Angeles,O+,inactive,132/86,84,0,hyper,0,0,1,hernia repair,obesity,yes
+P0831,Evelyn Clark,32,F,Boston,A+,active,118/74,72,0,no,0,1,0,null,thyroid imbalance,no
+P0832,Alexander Lewis,46,M,Houston,B+,inactive,144/93,89,1,no,1,0,1,bypass surgery,hypertension,yes
+P0833,Abigail Walker,25,F,San Diego,O+,active,115/72,70,0,no,0,1,0,null,iron deficiency,no
+P0834,Daniel Hall,39,M,Denver,A-,active,129/85,78,0,hypo,0,0,0,null,back pain,no
+P0835,Emily Allen,34,F,San Jose,B+,inactive,127/83,79,0,no,0,1,0,null,anxiety,yes
+P0836,Matthew Young,42,M,Dallas,O+,active,136/88,83,1,hyper,1,0,1,angioplasty,cholesterol,yes
+P0837,Elizabeth King,27,F,Auckland,A+,active,119/76,71,0,no,0,1,0,null,skin rash,no
+P0838,David Wright,48,M,Edinburgh,B-,inactive,143/91,87,1,hypo,1,0,1,hip surgery,arthritis,yes
+P0839,Sofia Scott,23,F,Stockholm,O+,active,113/70,68,0,no,0,1,0,null,asthma,no
+P0840,Joseph Green,40,M,Oslo,A+,inactive,137/89,85,1,no,1,0,1,stent placement,hypertension,yes
+P0841,Grace Adams,29,F,Helsinki,B+,active,121/79,74,0,no,0,1,0,null,PCOS,no
+P0842,Samuel Baker,36,M,Copenhagen,O-,active,131/84,77,0,hypo,0,0,0,null,GERD,no
+P0843,Chloe Nelson,31,F,Prague,A+,inactive,126/82,80,0,no,0,1,0,null,thyroid,no
+P0844,Andrew Carter,47,M,Vienna,B+,active,139/90,86,1,hyper,1,0,1,bypass surgery,diabetes,yes
+P0845,Victoria Mitchell,28,F,Budapest,O+,active,118/75,72,0,no,0,1,0,null,allergy,no
+P0846,Joshua Perez,43,M,Mexico City,A+,inactive,141/92,88,1,no,1,0,1,angioplasty,hypertension,yes
+P0847,Natalie Roberts,26,F,Lisbon,B+,active,117/73,70,0,no,0,1,0,null,anemia,no
+P0848,Christopher Turner,38,M,Brussels,O+,inactive,133/87,83,0,hypo,0,0,1,hernia repair,obesity,yes
+P0849,Hannah Phillips,33,F,Reykjavik,A+,active,120/78,74,0,no,0,1,0,null,eczema,no
+P0850,Anthony Campbell,49,M,Glasgow,B-,inactive,145/94,90,1,hyper,1,0,1,knee surgery,arthritis,yes
+P0851,Zoe Parker,24,F,Manchester,O+,active,114/71,69,0,no,0,1,0,null,migraine,no
+P0852,Isaac Evans,41,M,Birmingham,A+,inactive,136/89,85,1,no,1,0,1,stent placement,cholesterol,yes
+P0853,Lily Edwards,30,F,Liverpool,B+,active,122/80,75,0,no,0,1,0,null,thyroid,no
+P0854,Jack Collins,35,M,Leeds,O+,active,130/84,78,0,hypo,0,0,0,null,GERD,no
+P0855,Aria Stewart,27,F,Bristol,A+,inactive,124/81,79,0,no,0,1,0,null,PCOS,yes
+P0856,Henry Sanchez,44,M,Miami,B+,active,138/88,82,1,hyper,1,0,1,angioplasty,diabetes,yes
+P0857,Ella Morris,25,F,Orlando,O+,active,116/72,71,0,no,0,1,0,null,anemia,no
+P0858,Michael Rogers,52,M,Atlanta,A-,inactive,146/95,91,1,no,1,0,1,bypass surgery,hypertension,yes
+P0859,Scarlett Reed,29,F,Tampa,B+,active,119/77,73,0,no,0,1,0,null,allergy,no
+P0860,William Cook,37,M,Charlotte,O+,inactive,132/86,84,0,hypo,0,0,1,hernia repair,obesity,yes
+P0861,Victoria Morgan,34,F,Detroit,A+,active,121/79,74,0,no,0,1,0,null,thyroid,no
+P0862,Logan Bell,45,M,Columbus,B+,inactive,140/90,87,1,hyper,1,0,1,stent placement,cholesterol,yes
+P0863,Avery Murphy,26,F,Indianapolis,O+,active,115/72,70,0,no,0,1,0,null,migraine,no
+P0864,Sebastian Bailey,39,M,Nashville,A+,active,129/85,78,0,hypo,0,0,0,null,GERD,no
+P0865,Penelope Rivera,31,F,Memphis,B+,inactive,127/83,80,0,no,0,1,0,null,PCOS,yes
+P0866,Daniel Cooper,48,M,Kansas City,O+,active,142/91,86,1,no,1,0,1,bypass surgery,diabetes,yes
+P0867,Lucy Richardson,28,F,Calgary,A+,active,118/76,72,0,no,0,1,0,null,anemia,no
+P0868,Jayden Cox,36,M,Edmonton,B+,inactive,134/88,84,0,hyper,0,0,1,hernia repair,obesity,yes
+P0869,Nora Howard,33,F,Winnipeg,O+,active,120/78,74,0,no,0,1,0,null,thyroid,no
+P0870,Julian Ward,42,M,Ottawa,A+,inactive,137/89,85,1,no,1,0,1,stent placement,cholesterol,yes
+P0871,Leah Torres,27,F,Quebec City,B+,active,117/74,71,0,no,0,1,0,null,eczema,no
+P0872,Connor Peterson,38,M,Halifax,O+,inactive,133/87,83,0,hypo,0,0,1,hernia repair,obesity,yes
+P0873,Aurora Gray,30,F,Victoria,A+,active,121/79,75,0,no,0,1,0,null,PCOS,no
+P0874,Caleb Ramirez,46,M,Regina,B+,inactive,141/92,88,1,hyper,1,0,1,angioplasty,diabetes,yes
+P0875,Stella James,25,F,Saskatoon,O+,active,115/73,70,0,no,0,1,0,null,anemia,no
+P0876,Wyatt Watson,40,M,Anchorage,A+,inactive,136/89,85,1,no,1,0,1,stent placement,cholesterol,yes
+P0877,Hazel Brooks,32,F,Honolulu,B+,active,122/80,74,0,no,0,1,0,null,thyroid,no
+P0878,Nathan Kelly,37,M,Las Vegas,O+,active,130/84,78,0,hypo,0,0,0,null,GERD,no
+P0879,Ellie Sanders,29,F,Phoenix,A+,inactive,125/82,79,0,no,0,1,0,null,PCOS,yes
+P0880,Isaiah Price,43,M,San Antonio,B+,active,138/88,82,1,hyper,1,0,1,angioplasty,diabetes,yes
+P0881,Bella Bennett,26,F,Austin,O+,active,116/72,71,0,no,0,1,0,null,anemia,no
+P0882,Leo Wood,50,M,Jacksonville,A-,inactive,145/94,90,1,no,1,0,1,bypass surgery,hypertension,yes
+P0883,Luna Barnes,28,F,Columbus,B+,active,119/77,73,0,no,0,1,0,null,allergy,no
+P0884,Jack Henderson,36,M,Fort Worth,O+,inactive,132/86,84,0,hypo,0,0,1,hernia repair,obesity,yes
+P0885,Chloe Coleman,34,F,El Paso,A+,active,121/79,74,0,no,0,1,0,null,thyroid,no
+P0886,Lucas Jenkins,45,M,Detroit,B+,inactive,140/90,87,1,hyper,1,0,1,stent placement,cholesterol,yes
+P0887,Sadie Perry,27,F,Baltimore,O+,active,115/72,70,0,no,0,1,0,null,migraine,no
+P0888,Grayson Powell,39,M,Milwaukee,A+,active,129/85,78,0,hypo,0,0,0,null,GERD,no
+P0889,Aria Long,31,F,Albuquerque,B+,inactive,127/83,80,0,no,0,1,0,null,PCOS,yes
+P0890,Eli Patterson,48,M,Tucson,O+,active,142/91,86,1,no,1,0,1,bypass surgery,diabetes,yes
+P0891,Zoey Hughes,28,F,Fresno,A+,active,118/76,72,0,no,0,1,0,null,anemia,no
+P0892,Lincoln Flores,36,M,Sacramento,B+,inactive,134/88,84,0,hyper,0,0,1,hernia repair,obesity,yes
+P0893,Hannah Washington,33,F,Mesa,O+,active,120/78,74,0,no,0,1,0,null,thyroid,no
+P0894,David Butler,42,M,Atlanta,A+,inactive,137/89,85,1,no,1,0,1,stent placement,cholesterol,yes
+P0895,Eleanor Simmons,27,F,Colorado Springs,B+,active,117/74,71,0,no,0,1,0,null,eczema,no
+P0896,Joseph Foster,38,M,Raleigh,O+,inactive,133/87,83,0,hypo,0,0,1,hernia repair,obesity,yes
+P0897,Lillian Gonzales,30,F,Omaha,A+,active,121/79,75,0,no,0,1,0,null,PCOS,no
+P0898,Andrew Bryant,46,M,Miami,B+,inactive,141/92,88,1,hyper,1,0,1,angioplasty,diabetes,yes
+P0899,Addison Alexander,25,F,Oakland,O+,active,115/73,70,0,no,0,1,0,null,anemia,no
+P0900,Joshua Russell,40,M,Minneapolis,A+,inactive,136/89,85,1,no,1,0,1,stent placement,cholesterol,yes
+P0901,Natalie Griffin,32,F,Tulsa,B+,active,122/80,74,0,no,0,1,0,null,thyroid,no
+P0902,Ryan Diaz,37,M,Arlington,O+,active,130/84,78,0,hypo,0,0,0,null,GERD,no
+P0903,Samantha Hayes,29,F,New Orleans,A+,inactive,125/82,79,0,no,0,1,0,null,PCOS,yes
+P0904,Brandon Myers,43,M,Wichita,B+,active,138/88,82,1,hyper,1,0,1,angioplasty,diabetes,yes
+P0905,Alice Ford,26,F,Cleveland,O+,active,116/72,71,0,no,0,1,0,null,anemia,no
+P0906,Justin Hamilton,50,M,Tampa,A-,inactive,145/94,90,1,no,1,0,1,bypass surgery,hypertension,yes
+P0907,Clara Graham,28,F,Bakersfield,B+,active,119/77,73,0,no,0,1,0,null,allergy,no
+P0908,Aaron Sullivan,36,M,Aurora,O+,inactive,132/86,84,0,hypo,0,0,1,hernia repair,obesity,yes
+P0909,Maya Wallace,34,F,Anaheim,A+,active,121/79,74,0,no,0,1,0,null,thyroid,no
+P0910,Kevin Woods,45,M,Honolulu,B+,inactive,140/90,87,1,hyper,1,0,1,stent placement,cholesterol,yes
+P0911,Sarah Cole,27,F,Santa Ana,O+,active,115/72,70,0,no,0,1,0,null,migraine,no
+P0912,Thomas West,39,M,Riverside,A+,active,129/85,78,0,hypo,0,0,0,null,GERD,no
+P0913,Anna Jordan,31,F,Corpus Christi,B+,inactive,127/83,80,0,no,0,1,0,null,PCOS,yes
