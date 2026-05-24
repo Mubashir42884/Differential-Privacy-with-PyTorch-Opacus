@@ -40,7 +40,7 @@ This directory contains a progressive series of Jupyter Notebooks (`.ipynb`) des
 
 #### 🗺️ Tutorial Roadmap (In Progress)
 * `00. Opacus Fundamentals - Concepts and Privacy Engine.ipynb` (✅ Completed)
-* `01. Opacus Fundamentals - DP-SGD and Hyperparameters.ipynb` (Pending)
+* `01. Opacus Fundamentals - DP-SGD and Hyperparameters.ipynb` (✅ Completed)
 * `02. Opacus Fundamentals - Model Compatibility and ModuleValidator.ipynb` (Pending)
 * `03. Opacus Training - End-to-End Image Classification.ipynb` (Pending)
 * `04. Opacus Advanced - Custom Layers and Virtual Batch Sizes.ipynb` (Pending)
